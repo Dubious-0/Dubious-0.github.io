@@ -1,0 +1,4 @@
+# Google AdMob
+google.com, pub-9658619237869665, DIRECT, f08c47fec0942fa0
+
+# LevelPlay (ironSource) mediation - paste the lines from the LevelPlay dashboard below
